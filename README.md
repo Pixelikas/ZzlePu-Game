@@ -1,4 +1,4 @@
-# Zzuple-Game
+# ZzlePu-Game
 Short plataform / puzzle game made with HTML, JavaScript and CSS.<br>
 The game was developed using Construct 3 in 2021.<br>
 
